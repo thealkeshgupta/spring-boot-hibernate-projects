@@ -44,7 +44,7 @@ Spring_Project/
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/thealkeshgupta/spring-boot-hibernate-projects.git
    ```
 2. Navigate to the desired project directory.
    ```bash

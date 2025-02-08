@@ -1,0 +1,36 @@
+# Compiled Java class files
+*.class
+
+# Maven target directory
+target/
+
+# Log files
+*.log
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build output directories
+out/
+
+# Maven local repository cache
+.mvn/
+
+# Ignore compiled Maven wrappers
+.mvnw
+.mvnw.cmd
